@@ -2,10 +2,8 @@
 
 This Repo is Officially Managed & Developed by Team containing: 
 1. Gautam kushwaha
-2. Leela Sri
-3. Sai Komal
-4. Ravi Teja Chatti
-5.
+2. Sai Komal
+3. Ravi Teja Chatti
 
 
 ## Note for Developers
